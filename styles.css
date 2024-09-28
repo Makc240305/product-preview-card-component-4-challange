@@ -147,7 +147,7 @@ h1,
     }
 
     .card .main-text {
-        padding: 2rem;
+        padding: 1.813rem 2.188rem 1.875rem 1.938rem;
     }
 
     .card .product-title {
@@ -161,9 +161,5 @@ h1,
 
     .card .price-container {
         margin-bottom: 1.875rem;
-    }
-
-    .card .add-to-cart-button {
-        padding: 0.9375rem 0;
     }
 }
