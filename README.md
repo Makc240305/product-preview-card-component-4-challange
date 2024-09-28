@@ -6,7 +6,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Live Site URL: [Site](https://makc240305.github.io/receipe-page-main-4-challange/)
+- Live Site URL: [Site](https://makc240305.github.io/product-preview-card-component-5-challange/)
 
 ## My process
 
