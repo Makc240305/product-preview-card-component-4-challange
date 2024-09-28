@@ -96,6 +96,7 @@ h1,
 
 .current-price {
     color: var(--price-and-button-color);
+    font-weight:700;
 }
 
 .original-price {
